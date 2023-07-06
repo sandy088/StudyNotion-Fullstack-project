@@ -7,11 +7,6 @@ StudyBell is a comprehensive EdTech platform that aims to revolutionize online l
 https://github.com/sandy088/StudyNotion/assets/90024312/784afb1d-e998-4bcb-9760-9af1ea4c719d
 
 
-
-
-
-
-
 ## Features
 
 - **User Authentication**: StudyNotion provides a secure and user-friendly authentication system for students, instructors, and administrators.
@@ -35,6 +30,7 @@ Technologies Used
 - **Authentication**: JWT (JSON Web Tokens)
 - **Database**: MongoDB
 - **Cloud Storage**: Cloudinary
+- **Payment Gateway**: Razorpay
 
 ## Screenshots
 
