@@ -48,7 +48,10 @@ function Navbar() {
       <div className="flex w-11/12 max-w-maxContent items-center justify-between">
         {/* Logo */}
         <Link to="/">
-          <img src={logo} alt="Logo" width={160} height={32} loading="lazy" />
+{/*           <img src={logo} alt="Logo" width={160} height={32} loading="lazy" /> */}
+          <div className="md:text-2xl text-sm font-bold text-white">
+          StudySett
+          </div>
         </Link>
         {/* Navigation links */}
         <nav className="hidden md:block">
